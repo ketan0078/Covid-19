@@ -310,7 +310,9 @@ hr {
 
   .news,
   .scene,
-  .home-img {
+  .home-img,
+  .wash ,
+  .ks{
     display: none;
   }
 
